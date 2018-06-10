@@ -1,0 +1,72 @@
+PODS:
+  - BEMCheckBox (1.4.1)
+  - Firebase (4.0.1):
+    - Firebase/Core (= 4.0.1)
+  - Firebase/Core (4.0.1):
+    - FirebaseAnalytics (= 4.0.0)
+    - FirebaseCore (= 4.0.1)
+  - FirebaseAnalytics (4.0.0):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseAuth (4.0.0):
+    - FirebaseAnalytics (~> 4.0)
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (4.0.1):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseDatabase (4.0.0):
+    - FirebaseAnalytics (~> 4.0)
+  - FirebaseInstanceID (2.0.0):
+    - FirebaseCore (~> 4.0)
+  - FirebaseStorage (2.0.0):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.1):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.1)
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.1)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.1)
+  - GSMessages (1.3.4)
+  - GTMSessionFetcher/Core (1.1.10)
+  - iCarousel (1.8.3)
+  - SkyFloatingLabelTextField (3.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - BEMCheckBox
+  - Firebase
+  - FirebaseAuth
+  - FirebaseCore
+  - FirebaseDatabase
+  - FirebaseStorage
+  - GSMessages
+  - iCarousel
+  - SkyFloatingLabelTextField
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  BEMCheckBox: 46f2a84c01c3bbeb3604e730d335a441297ed007
+  Firebase: 3c5bad385bfadac6c686dc6542462b838aa9eafe
+  FirebaseAnalytics: 64a4f43c9400476adf5db5ff3f5a3cbe75ee7edb
+  FirebaseAuth: c06c18bbcd760bc4634547db107a4106c748a6f5
+  FirebaseCore: f0588f3d467836a758268460e8ca7b03098fd9c5
+  FirebaseDatabase: 01039035f89552c6a130014ab6ece052247da7a3
+  FirebaseInstanceID: e39f3def038af8e65fb34ffb7334c9ef8ceb0d91
+  FirebaseStorage: 0af37978bf038367cd9be961336250462546a5c9
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  GSMessages: b26e37bb6017b11d61f2708684179d5e9495c063
+  GTMSessionFetcher: cc03baf527a0737f44aa48e74de2c075c33ba715
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  SkyFloatingLabelTextField: 6e31de9d71235c44773d03d1cd6215044b73dbd7
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: a257b116e0fc4b0eb232c916a5e76ab0c5d92817
+
+COCOAPODS: 1.4.0
